@@ -1,6 +1,6 @@
-# Dijital Beyin ve Ekran Mimarisi: Kısa Videolar, Oyunlar, Geçiş Şoku ve Yaş Doğrulama İllüzyonu
+# Dijital Beyin ve Ekran Mimarisi: Çocuklar neden bağımlı olur?
 
-**Hazırlayan:** Dijital Psiko-Dinamik Araştırma Grubu  
+**Hazırlayan:** Mehmet Uğur Demir
 **Yöntem:** İşletim Sistemi ve Dosya Mimarisi Modeli  
 **Hedef Kitle:** Ebeveynler, Eğitmenler, Araştırmacılar ve Yasa Koyucular  
 
