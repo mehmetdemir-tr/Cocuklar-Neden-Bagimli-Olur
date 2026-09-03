@@ -38,12 +38,12 @@ Uygulamaların, beynin ödül ve haz merkezini sürekli uyararak mantık süzgec
 
 ---
 
-## 3. BEYNİN DOSYA VE SİSTEM KÜTÜKLERİ (FHS LOGS)
+## 3. BEYNİN DOSYA VE SİSTEM DÜZENLERİ
 
 ### 3.1. Temiz ve Sağlıklı Beyin Sistemi (System Default State)
 Çocuğun ekran etkisinde olmadığı, mantığının ve duygusal dengesinin yerinde olduğu durum:
 
-```text
+```lhs
 / (Kök Dizin: SAĞLIKLI BEYİN - SYSTEM DEFAULT)
 ├── /kernel
 │   ├── mutluluk_yollari        [DURUM: DENGELİ / NORMAL]
@@ -67,7 +67,7 @@ Uygulamaların, beynin ödül ve haz merkezini sürekli uyararak mantık süzgec
 ### 3.2. Etkilenmiş ve Yorulmuş Beyin Sistemi (Compromised Critical State)
 Ekran kilitlenmesi yaşamış, üzerine dışarıda koşturup fiziken yorulmuş ama zihnen krizde olan çocuk beyni:
 
-```text
+```lhs
 / (Kök Dizin: KİLİTLENMİŞ VE YORULMUŞ BEYİN - CRITICAL EXHAUSTED STATE)
 ├── /kernel
 │   ├── mutluluk_yollari        [DURUM: TIKANMIŞ / DÜŞÜK] (Mutluluk Çöküşü)
@@ -122,16 +122,16 @@ Engeller arttıkça çocuklar içeriklere erişebilmek için Dark Web, kaçak si
 
 Ekrana bakan çocuk beyninin dakikalar içindeki dönüşümü:
 
-```text
+```lhs
   [0. Dk] ------------> [14. Dk] ------------> [33. Dk] ------------> [51. Dk] ------------> [62. Dk]
- Başlangıç           0. Faz: Kilit           1. Faz: Hipnoz            Stres Deşarjı         2. Faz: Otomat
+ Başlangıç           0. Faz: Kilit           1. Faz: Hipnoz            Stres Deşarjı         2. Faz: Otomatik Vites
 (Serbest İrade)     (Mantık Kapanır)       (Tepki Yavaşlar)          (Vücutta Stres)       (Sesleri Seçerek Duyar)
 ```
 
 * **14. Dakika (Sistem Kilitlenmesi):** Mantık süzgeci kapanır. Çocuk pasif bir izleyiciye dönüşür ve otopilot moduna geçer.
 * **33. Dakika (Derin Hipnoz):** Çocuğun konuşması yavaşlar, cümleyi zor kurar. Gözler irade dışı ekrana çivilenir.
 * **51. Dakika (Stres Deşarjı):** Hareketsiz duran bedende gerilim ve stres hormonu birikir. Çocuk ekrandan kafasını kaldırdığı an ani bir hareketlilik ve hiperaktivite sergiler.
-* **62. Dakika (Otomat Modu):** Çocuğa seslendiğinizde "Efendim" der ama sizi aslında duymaz. Beyin tanıdık sesleri süzer ve düşünmeden otomatik cevap verir.
+* **62. Dakika (Otomatik Vites Modu):** Çocuğa seslendiğinizde "Efendim" der ama sizi aslında duymaz. Beyin tanıdık sesleri süzer ve düşünmeden otomatik cevap verir.
 
 ---
 
@@ -139,7 +139,7 @@ Ekrana bakan çocuk beyninin dakikalar içindeki dönüşümü:
 
 Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması gereken gerçek çözümler:
 
-```text
+```lhs
 /patches
 ├── /core-fixes             # Biyolojik & Duyusal Soğuma
 │   ├── tampon_bolge_protokolu  # 10 Dakikalık Dinlenme
@@ -158,7 +158,14 @@ Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması g
 
 ---
 
-## 7. EBEVEYN ANLIK MÜDAHALE REHBERİ
+## 7. BU KONUDA DEVLETLERİN YAPMASI GEREKENLER
+
+* **Kimlik Doğrulaması yerine şeffaf tasarım talep edilmesi**: Instagram, YouTube gibi platformlardan shorts veya kısa videolar kısmını o ülke için kapatılması, geceleri shorts tarafının bloke edilmesi istenebilir.
+* **Dijital Okuryazarlık eğitimi**: Bu konularda çocuklara dijital okuryazarlık eğitiminin sağlanması, eğitim müfredatına eklenmesi ve ailelerin bu konuda bilinçlendirilmesi.
+* **Yasakçı anlayışla değil, Denetimçi anlayışla yaklaşması**: Gelecek kuşaklar, internet yasakları veya doğrulama sistemleriyle yetiştirilemez. Ancak güvenli kullanım ve eğitimle yetiştirilir.
+* **Varsayılan Olarak Kapalı" (Opt-in) Algoritma Zorunluluğu**: Devletler, 18 yaş altındaki kullanıcılar için infinite_scroll (sonsuz kaydırma) ve variable_reward (kumarhane etkisi yaratan yapay zeka önerileri) özelliklerinin varsayılan olarak kapalı gelmesini yasal olarak zorunlu kılmalıdır. Çocuk (veya ebeveyn) bu özellikleri bilinçli olarak açmadığı sürece platform sadece kronolojik (tarih sırasına göre) akış göstermelidir.
+
+## 8. EBEVEYN ANLIK MÜDAHALE REHBERİ
 
 * **Ortamdaki Uyarımı Kesin (Sinerji ve Ses Tonu):** Çocuk öfkeliyken ona nasihat vermeyin, bağırmayın. Işıkları loşlaştırın, televizyonu kapatın. Yanına gidip yumuşakça dokunun ve düşük bir ses tonuyla konuşun.
 * **Ilık Su ve Hafif Atıştırmalık (Biyolojik Rahatlama):** Çocuğun elini, yüzünü ılık suyla yıkayın veya duşa sokun. Ilık su vücudun sakinleşme mekanizmasını anında tetikler. Düşen kan şekeri için hafif bir yiyecek verin.
@@ -176,3 +183,7 @@ Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması g
 ---
 
 > **Önemli Not:** Tüm bu semptomların, krizlerin ve nörolojik kilitlenmelerin tekil kullanımlardan ziyade aşırı ve sürekli tüketim sonucunda ortaya çıktığı unutulmamalıdır. Çözüm bireysel yasaklarda değil, tasarım şeffaflığında ve ebeveyn-çocuk iletişiminin niteliğindedir.
+
+## Kullanılan kaynaklar
+- Kendi gözlemlerim
+- Yusuf İpek adlı kanalın "Bu Yasayı Durdurmalıyız!" başlıklı videosu.
