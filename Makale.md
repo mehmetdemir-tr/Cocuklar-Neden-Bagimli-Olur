@@ -1,6 +1,7 @@
 # Dijital Beyin ve Ekran Mimarisi: Çocuklar neden bağımlı olur?
 
 **Hazırlayan:** Mehmet Uğur Demir
+
 **Yöntem:** İşletim Sistemi ve Dosya Mimarisi Modeli  
 **Hedef Kitle:** Ebeveynler, Eğitmenler, Araştırmacılar ve Yasa Koyucular  
 
