@@ -40,11 +40,11 @@ Uygulamaların, beynin ödül ve haz merkezini sürekli uyararak mantık süzgec
 
 ## 3. BEYNİN DOSYA VE SİSTEM DÜZENLERİ
 
-### 3.1. Temiz ve Sağlıklı Beyin Sistemi (System Default State)
+### 3.1. Temiz ve Sağlıklı Beyin Sistemi
 Çocuğun ekran etkisinde olmadığı, mantığının ve duygusal dengesinin yerinde olduğu durum:
 
 ```lhs
-/ (Kök Dizin: SAĞLIKLI BEYİN - SYSTEM DEFAULT)
+/ (Kök Dizin: SAĞLIKLI BEYİN)
 ├── /kernel
 │   ├── mutluluk_yollari        [DURUM: DENGELİ / NORMAL]
 │   └── yuksek_uyarim_kaydi     [DURUM: PASİF]
@@ -64,11 +64,11 @@ Uygulamaların, beynin ödül ve haz merkezini sürekli uyararak mantık süzgec
     └── dürtüsel_öfke           [DURUM: YOK]
 ```
 
-### 3.2. Etkilenmiş ve Yorulmuş Beyin Sistemi (Compromised Critical State)
+### 3.2. Etkilenmiş ve Yorulmuş Beyin Sistemi
 Ekran kilitlenmesi yaşamış, üzerine dışarıda koşturup fiziken yorulmuş ama zihnen krizde olan çocuk beyni:
 
 ```lhs
-/ (Kök Dizin: KİLİTLENMİŞ VE YORULMUŞ BEYİN - CRITICAL EXHAUSTED STATE)
+/ (Kök Dizin: KİLİTLENMİŞ VE YORULMUŞ BEYİN)
 ├── /kernel
 │   ├── mutluluk_yollari        [DURUM: TIKANMIŞ / DÜŞÜK] (Mutluluk Çöküşü)
 │   ├── yuksek_uyarim_kaydi     [DURUM: KAYITTA] (Şiddet/Bağırma Şablonu)
