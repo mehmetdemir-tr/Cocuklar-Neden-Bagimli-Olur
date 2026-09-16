@@ -97,7 +97,7 @@ Ekran kilitlenmesi yaşamış, üzerine dışarıda koşturup fiziken yorulmuş 
 
 ## 4. YAŞ DOĞRULAMA SİSTEMLERİ NEDEN İŞE YARAMAZ? (`/security/age_verification_bypass`)
 
-Son dönemde yasa koyucuların gündeme getirdiği *"T.C. Kimlik / e-Devlet ile Yaş Doğrulama (Age Verification)"* ve yaş kısıtlaması politikaları, çocukların dijital bağımlılığını ve krizlerini çözmede tamamen yetersiz kalmaya mahkûmdur. Bu başarısızlığın 5 temel nedeni:
+Son dönemde gündeme getirilen *"T.C. Kimlik / e-Devlet ile Yaş Doğrulama (Age Verification)"* ve yaş kısıtlaması politikaları, çocukların dijital bağımlılığını ve krizlerini çözmede tamamen yetersiz kalmaya mahkûmdur. Bu başarısızlığın 5 temel nedeni:
 
 ### 4.1. Kök Sorunu Çözmez: Sorun Yaş Değil, "Tasarım Mimarisi"dir
 Bağımlılığı yaratan durum çocuğun yaşı değil; platformların sahip olduğu `infinite_scroll` (sonsuz kaydırma), `variable_reward` (slot makinesi etkisi) ve bildirim bombardment mimarisidir. Bu mimari sadece çocuklarda değil, yetişkinlerde de aynı kilitlenmeyi yaratır. Yaş sınırını 16 yapmak, 16 yaşına giren bireyin bu sömürücü mimariden etkilenmeyeceği anlamına gelmez.
