@@ -11,7 +11,7 @@
 
 Bu çalışmanın amacı; tablet, telefon, kısa videolar (Reels, TikTok) ve oyunların çocuk beyninde nasıl bir "kilitlenme" yarattığını karmaşık tıp terimleri yerine herkesin anlayabileceği bilgisayar/işletim sistemi benzetmesiyle açıklamaktır. Ayrıca, günümüzde çözümsel bir hamle olarak sunulan **"Yaş Doğrulama Sistemleri" (Age Verification)** uygulamasının neden işe yaramayacağını ve kök sorunu çözmekten uzak olduğunu sistem mimarisi perspektifiyle ortaya koymaktır.
 
-Saha incelemelerimiz göstermiştir ki: Ekran başındaki bir çocuğun mantıklı düşünme ve kendini kontrol etme merkezi (mantık süzgeci) devre dışı kalır. Ekran aniden kapandığında ya da çocuk dışarıda koşup yorulsa bile devam eden o şiddetli öfke, ağlama ve bağırma krizleri bir **"terbiye veya ahlak sorunu"** değildir. Bu durum, aşırı uyarılan beynin gerçek dünyaya aniden dönememesinden kaynaklanan biyolojik bir **"Geçiş Şoku"** halidir.
+İncelemelerim göstermiştir ki: Ekran başındaki bir çocuğun mantıklı düşünme ve kendini kontrol etme merkezi (mantık süzgeci) devre dışı kalır. Ekran aniden kapandığında ya da çocuk dışarıda koşup yorulsa bile devam eden o şiddetli öfke, ağlama ve bağırma krizleri bir **"terbiye veya ahlak sorunu"** değildir. Bu durum, aşırı uyarılan beynin gerçek dünyaya aniden dönememesinden kaynaklanan biyolojik bir **"Geçiş Şoku"** halidir.
 
 ---
 
