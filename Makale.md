@@ -1,4 +1,4 @@
-# Dijital Beyin ve Ekran Mimarisi: Çocuklar neden bağımlı olur?
+# Çocuklar neden bağımlı olur?
 
 **Hazırlayan:** Mehmet Uğur Demir
 
