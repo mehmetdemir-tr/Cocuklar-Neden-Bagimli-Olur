@@ -3,7 +3,7 @@
 **Hazırlayan:** Mehmet Uğur Demir
 
 **Yöntem:** İşletim Sistemi ve Dosya Mimarisi Modeli  
-**Hedef Kitle:** Ebeveynler, Eğitmenler, Araştırmacılar ve Yasa Koyucular  
+**Hedef Kitle:** Ebeveynler, Eğitmenler, Araştırmacılar ve Yetkililer
 
 ---
 
