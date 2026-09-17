@@ -137,7 +137,7 @@ Ekrana bakan çocuk beyninin dakikalar içindeki dönüşümü:
 
 ## 6. SİSTEMSEL ÇÖZÜMLER VE DÜZELTME YAMA STRATEJİLERİ (`/patches`)
 
-Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması gereken gerçek çözümler:
+Yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması gereken gerçek çözümler:
 
 ```lhs
 /patches
@@ -158,7 +158,7 @@ Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması g
 
 ---
 
-## 7. BU KONUDA DEVLETLERİN YAPMASI GEREKENLER
+## 7. BU KONUDA YETKİLİLERİN YAPMASI GEREKENLER
 
 * **Kimlik Doğrulaması yerine şeffaf tasarım talep edilmesi**: Instagram, YouTube gibi platformlardan shorts veya kısa videolar kısmını o ülke için kapatılması, geceleri shorts tarafının bloke edilmesi istenebilir.
 * **Dijital Okuryazarlık eğitimi**: Bu konularda çocuklara dijital okuryazarlık eğitiminin sağlanması, eğitim müfredatına eklenmesi ve ailelerin bu konuda bilinçlendirilmesi.
@@ -171,16 +171,6 @@ Siyasi/yasal yasaklar yerine hem yazılım hem de sosyal düzeyde uygulanması g
 * **Ilık Su ve Hafif Atıştırmalık (Biyolojik Rahatlama):** Çocuğun elini, yüzünü ılık suyla yıkayın veya duşa sokun. Ilık su vücudun sakinleşme mekanizmasını anında tetikler. Düşen kan şekeri için hafif bir yiyecek verin.
 * **Duyguyu Onayla, Şiddete Sınır Koy (Duygusal Sınır):** *"Çok yorulduğunu ve şu an kızgın olduğunu biliyorum. Ama bana vurmana veya bağırmana izin veremem"* diyerek kararlı ve sakin kalın.
 * **Paylaşımlı Küçük Görevler (Efor Direncini Kırma):** Soğuma süresi bitince *"Odanı topla"* demek yerine *"Arabaları sen kutuya koy, bebekleri ben koyayım"* diyerek yükü paylaşın.
-
-### Ebeveyn İletişim Sözlüğü
-
-| Durum | Yanlış İletişim (Krizi Tetikler) | Doğru İletişim (Sistemi Soğutur) |
-|---|---|---|
-| **Dışarı Dönüşü Öfke** | "O kadar koştun oynadın, hala neye bağırıyorsun!" | "Çok yoruldun ve şu an kızgınsın, farkındayım. Gel biraz dinlenelim." |
-| **Ekranı Kapatma** | "Saatlerdir o ekrandasın, çabuk kapat onu!" | "Bu izlediğin video/oynadığın tur bitince ekranı kapatıyoruz." |
-| **Öfke Patlaması** | "Tüm gün tablet izlediğin için böyle hırçın oldu!" | "Ekran kapandığı için öfkelisin, seni duyuyorum. Sakinleşene kadar yanındayım." |
-
----
 
 > **Önemli Not:** Tüm bu semptomların, krizlerin ve nörolojik kilitlenmelerin tekil kullanımlardan ziyade aşırı ve sürekli tüketim sonucunda ortaya çıktığı unutulmamalıdır. Çözüm bireysel yasaklarda değil, tasarım şeffaflığında ve ebeveyn-çocuk iletişiminin niteliğindedir.
 
